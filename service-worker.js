@@ -1,4 +1,4 @@
-const CACHE_NAME = "diario-cache-v6";
+const CACHE_NAME = "diario-cache-v7";
 const urlsToCache = [
   "/",
   "/index.html",
