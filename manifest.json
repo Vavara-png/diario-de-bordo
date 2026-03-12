@@ -24,7 +24,7 @@
       "src": "/assets/screenshot1.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "form_factor": "desktop",
+      "form_factor": "wide",
       "label": "Visualização no computador"
     },
     {
