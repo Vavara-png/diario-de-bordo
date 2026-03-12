@@ -24,14 +24,14 @@
       "src": "/assets/screenshot1.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "form_factor": "wide-screen",
+      "form_factor": "wide",
       "label": "Visualização no computador"
     },
     {
       "src": "/assets/screenshot2.png",
       "sizes": "414x892",
       "type": "image/png",
-      "form_factor": "wide",
+      "form_factor": "narrow",
       "label": "Visualização no celular"
     }
   ]
