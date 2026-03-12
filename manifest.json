@@ -18,5 +18,19 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "label": "Visualização no computador"
+    },
+    {
+      "src": "/assets/screenshot2.png",
+      "sizes": "414x896",
+      "type": "image/png",
+      "label": "Visualização no celular"
+    }
   ]
 }
