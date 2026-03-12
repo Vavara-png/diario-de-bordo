@@ -1,4 +1,4 @@
-const CACHE_NAME = "diario-cache-v5";
+const CACHE_NAME = "diario-cache-v6";
 const urlsToCache = [
   "/",
   "/index.html",
@@ -6,7 +6,9 @@ const urlsToCache = [
   "/app.js",
   "/manifest.json",
   "/assets/icon-192.png",
-  "/assets/icon-512.png"
+  "/assets/icon-512.png",
+  "/assets/screenshot1.png",
+  "/assets/screenshot2.png"
 ];
 
 self.addEventListener("install", (event) => {
